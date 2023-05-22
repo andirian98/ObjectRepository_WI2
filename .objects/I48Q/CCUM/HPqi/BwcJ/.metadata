@@ -1,0 +1,16 @@
+﻿{
+  "Id": "BwcJ7atv60KmdBZQAX5RYw",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/BwcJ7atv60KmdBZQAX5RYw",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/HPqi-CUQ6Uu-t50yGv4zEw",
+  "Name": "Email",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-11-15T02:26:00.9153542Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T02:26:28.4716514Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

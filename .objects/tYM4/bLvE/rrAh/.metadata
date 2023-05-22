@@ -1,0 +1,12 @@
+﻿{
+  "Id": "rrAhhhPS-0uo1klvFStXgw",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/rrAhhhPS-0uo1klvFStXgw",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/bLvEtbq5PUShvjUGdIldpQ",
+  "Name": "ACME System3",
+  "Type": "Screen",
+  "Created": "2022-11-16T04:54:42.8081813Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-16T04:54:42.8081813Z"
+}

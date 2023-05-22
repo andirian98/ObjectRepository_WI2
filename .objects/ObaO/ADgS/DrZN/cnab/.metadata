@@ -1,0 +1,13 @@
+﻿{
+  "Id": "cnabNgy9SUGdKyxOnfFpgA",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/cnabNgy9SUGdKyxOnfFpgA",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/DrZN3W8q80-KYfGVE-h2vQ",
+  "Name": "Include inactive clients",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Created": "2022-11-16T04:29:05.1661051Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-16T04:29:05.1661051Z"
+}

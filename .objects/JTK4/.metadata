@@ -1,0 +1,11 @@
+﻿{
+  "Id": "JTK48MOtQ06JdtIKpqq26w",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/JTK48MOtQ06JdtIKpqq26w",
+  "Name": "ACME System 3 app (1)",
+  "Type": "App",
+  "Created": "2022-11-15T06:01:03.5760934Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T06:01:03.5760934Z"
+}

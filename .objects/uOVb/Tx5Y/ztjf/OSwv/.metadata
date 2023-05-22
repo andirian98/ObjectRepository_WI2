@@ -1,0 +1,13 @@
+﻿{
+  "Id": "OSwvgZp9zki_9Y4yVvrG1A",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/OSwvgZp9zki_9Y4yVvrG1A",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/ztjfHKYQDE2q6xNhR4WDCQ",
+  "Name": "Year",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-11-15T07:46:55.7373084Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T07:46:55.7373084Z"
+}

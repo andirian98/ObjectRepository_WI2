@@ -1,0 +1,13 @@
+﻿{
+  "Id": "OojHajlcuUWsJxyZBqFnwQ",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/OojHajlcuUWsJxyZBqFnwQ",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/ztjfHKYQDE2q6xNhR4WDCQ",
+  "Name": "Day",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-11-15T07:46:55.5944399Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T07:46:55.5944399Z"
+}

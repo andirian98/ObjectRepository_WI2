@@ -1,0 +1,13 @@
+﻿{
+  "Id": "IomViqFHuUu6RT7D0pYZiA",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/IomViqFHuUu6RT7D0pYZiA",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/ztjfHKYQDE2q6xNhR4WDCQ",
+  "Name": "Search Check",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-11-15T07:46:55.8006291Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T07:46:55.8006291Z"
+}

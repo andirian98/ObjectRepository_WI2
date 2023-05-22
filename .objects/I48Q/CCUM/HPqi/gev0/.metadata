@@ -1,0 +1,13 @@
+﻿{
+  "Id": "gev0_O_b10mP08IhnTxMmQ",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/gev0_O_b10mP08IhnTxMmQ",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/HPqi-CUQ6Uu-t50yGv4zEw",
+  "Name": "Login",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-11-15T02:26:01.0401042Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T02:26:01.0401042Z"
+}

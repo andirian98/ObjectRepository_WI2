@@ -1,0 +1,13 @@
+﻿{
+  "Id": "jk5IkSkX0EeCht_Eh_0fTg",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/jk5IkSkX0EeCht_Eh_0fTg",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/AdF9S70_sEKfVh-NRoyU-Q",
+  "Name": "Client Checks",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-11-16T04:52:10.5393445Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-16T04:52:10.5393445Z"
+}

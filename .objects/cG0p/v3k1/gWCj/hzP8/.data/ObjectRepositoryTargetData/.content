@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mKhewmurUEWsRlQ_FKHRmw" Reference="wxxiLnu7v02ay7rW7YFciQ/hzP88w_AKUWZ10Zm2myf6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" Accuracy="1" DesignTimeRectangle="766, 132, 20, 20" DesignTimeScaleFactor="1" FriendlyName="'grouping'" FullSelectorArgument="&lt;ctrl name='Check-Request-For-*.pdf' role='document' /&gt;&lt;ctrl name='PDF bar' role='tool bar' /&gt;&lt;ctrl name='Fit to width (Ctrl+\)' role='push button' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Check-Request-For-*.pdf' role='document' /&gt;&lt;ctrl name='PDF bar' role='tool bar' /&gt;&lt;ctrl name='Fit to width (Ctrl+\)' role='push button' /&gt;&lt;ctrl role='grouping' automationid='' /&gt;" Guid="59eb3c4d-ac84-4784-8e24-17681d21a334" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADWSURBVEhL7ZTBDYQgEEW3GguQAqABGqABKMA6tA0asAIasA4a4DibT0KiogKJHnbj4R34M8xnhsAnhEBP8hoU+VODYRio67pmjDFZrczAWktaa/Leb/QalFI0z/NGywzGcYzs9RqO9hYN0MlZN/tYs8GyLCSEyNpOQO/7PuZh3WSATYwxklLSNE0R51zMQSxpiCMPWrMBTocCaw05MEoa4qmLpK3rFUfEOX9mRGn96CW3UmWAh4YXeXbqK6oeGgrjq8Bsj76DK/AD7OtlBnfzGhT5dYNAX8qCGzuewZrvAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Check-Request-For-91399117.pdf - Work - Microsoft​ Edge' /&gt;" SearchSteps="Selector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e313585276fc432f16f7b8df6c7c2698.png" xmlns="">0Ha_GRgSyvku6JgqVkfVUZA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

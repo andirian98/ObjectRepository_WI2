@@ -1,0 +1,13 @@
+﻿{
+  "Id": "p80j2sbSrU64ATMGQZoYCA",
+  "Reference": "wxxiLnu7v02ay7rW7YFciQ/p80j2sbSrU64ATMGQZoYCA",
+  "ParentRef": "wxxiLnu7v02ay7rW7YFciQ/ztjfHKYQDE2q6xNhR4WDCQ",
+  "Name": "Check Number",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-11-15T07:46:55.5255858Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-15T07:46:55.5255858Z"
+}
